@@ -2,6 +2,10 @@
 	box-sizing: border-box;
 }
 
+body {
+	min-width: 970px;
+}
+
 .container {
 	width: 970px;
 	margin: 0 auto;
